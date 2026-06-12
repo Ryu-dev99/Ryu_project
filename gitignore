@@ -1,0 +1,13 @@
+# Ignore log files
+*.log
+*.txt
+
+# Ignore temporary system files
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
+
+# Ignore local config files containing private tokens
+config_private.json
+.env
